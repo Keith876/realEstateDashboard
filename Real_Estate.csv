@@ -1,0 +1,501 @@
+property_type,location,square_footage,bedrooms,bathrooms,year_built, sale_price ,days_on_market,neighborhood_rating
+townhouse,277 Monument Plaza,3701,3,4,1908,187161,150,9.2
+condo,8 Crest Line Road,3832,2,3,1951,178176,59,7.8
+apartment,0 Maple Wood Street,929,6,3,1929,937895,202,7.2
+house,4027 Namekagon Way,3528,5,3,2019,693880,245,8
+condo,8967 Warner Street,2304,5,2,1918,165211,314,7.7
+townhouse,6965 Florence Drive,1369,2,2,1932,886290,220,7.7
+house,621 Bartelt Center,4542,3,3,1993,498552,13,2.3
+townhouse,7932 Prairieview Junction,2850,6,3,1933,565466,148,3.3
+townhouse,5 Oneill Crossing,2485,1,3,1978,100038,304,4.1
+apartment,16374 Steensland Crossing,762,3,1,1925,505893,73,2.3
+house,7 Kinsman Way,1140,3,4,1923,206177,217,8.6
+apartment,4 Clove Lane,3658,5,2,1932,341778,262,4
+condo,8467 Sunbrook Junction,1740,3,2,1906,217435,330,9.3
+condo,38 Rutledge Way,1456,6,3,1997,667252,298,3.6
+house,017 Swallow Court,4952,6,2,2000,806871,307,9
+house,7 Briar Crest Drive,4598,4,3,2016,925908,20,6.7
+house,09707 Vidon Avenue,4116,2,3,1974,204792,145,8.5
+apartment,5 Erie Circle,3032,2,3,1993,696891,105,9.2
+apartment,0437 Lunder Parkway,3345,5,4,2012,316332,183,9.7
+house,2 Oakridge Drive,1869,5,1,1940,411058,241,3.4
+house,889 Springs Street,1935,3,1,1994,468957,83,8.5
+house,92933 Summer Ridge Crossing,769,1,3,1972,435923,28,9.9
+apartment,37665 Loomis Junction,2349,5,3,2017,235535,56,3.3
+house,250 Lerdahl Lane,1666,2,4,1943,485344,108,4.6
+house,3 8th Avenue,2935,4,3,2005,135723,316,5.9
+townhouse,2377 Clove Junction,2604,3,3,1938,674045,151,4.6
+house,89849 Basil Court,4890,4,1,1976,484264,262,5.3
+apartment,995 Talisman Center,1734,2,1,2006,820883,30,3.9
+condo,71 Arkansas Street,587,6,2,1919,910571,290,6.3
+townhouse,56 Westridge Place,865,3,2,1900,727324,93,1.7
+townhouse,7 Dakota Drive,2301,5,1,1913,610064,14,4.2
+townhouse,46646 Fair Oaks Hill,2969,5,2,1936,329387,255,5.4
+apartment,8322 Jana Circle,2845,3,1,2000,988570,248,2.2
+apartment,945 Esch Road,3396,2,1,1945,937360,138,5.6
+condo,63 Manufacturers Center,4603,6,3,2001,497162,204,9.2
+apartment,146 Division Trail,769,2,3,1939,408403,105,7.6
+condo,2 Meadow Ridge Court,3912,6,2,1964,689631,193,6
+house,8345 Hanson Parkway,2763,5,2,1976,290508,50,8.9
+condo,006 Service Circle,2634,3,2,1979,921832,288,1.2
+house,53 Paget Court,4521,5,2,1912,642553,264,2
+townhouse,3 Quincy Way,2203,5,2,1995,816352,126,1.9
+house,39 Mallard Terrace,782,6,2,1938,183687,32,9.7
+house,40107 Ilene Point,4135,3,2,1947,742065,42,3.8
+house,34671 Rusk Pass,4352,6,3,1965,503296,231,8.2
+house,06879 Milwaukee Terrace,2603,1,2,1927,497803,361,8
+apartment,796 Mariners Cove Avenue,4222,5,2,1983,580564,42,5.5
+condo,0 Dawn Pass,2100,3,2,1966,122641,204,4.8
+house,848 Ridge Oak Court,3896,4,2,1931,278888,57,2.3
+condo,42 Dayton Drive,1321,2,2,1950,997867,295,9.9
+condo,083 Morningstar Center,2982,6,2,1907,172213,227,7.2
+house,833 Westport Parkway,3243,2,3,1925,679044,133,8.8
+house,58 Summit Road,3191,1,1,1948,761377,247,6.8
+condo,255 Center Terrace,3522,3,2,1904,170962,29,5.3
+townhouse,1 Daystar Hill,2885,6,4,1956,922637,73,4.2
+townhouse,943 Summit Junction,3052,2,1,1949,403495,271,3.6
+apartment,366 Thompson Road,4308,4,2,1967,820998,183,6.9
+apartment,46958 Meadow Ridge Street,4841,1,2,1908,480598,146,1.7
+condo,88 Dennis Pass,4601,2,2,1955,718191,70,9.8
+condo,56868 Jackson Road,4440,4,1,1956,538611,43,2.1
+house,12004 Harper Circle,3466,4,2,1978,716959,321,9
+apartment,05832 Mccormick Plaza,4471,5,2,2008,559476,130,7.6
+house,40764 Donald Crossing,1702,4,1,1907,667998,197,2.4
+house,4716 Mayfield Parkway,642,4,4,1967,142826,151,1.6
+apartment,0587 Village Road,4369,4,2,1959,203343,279,6.3
+apartment,04 Thompson Park,2742,2,1,1921,998206,38,1.7
+house,5634 Old Gate Hill,1239,3,3,1925,490946,363,5.7
+apartment,939 Lakewood Gardens Court,2298,6,1,1909,68472,140,6.7
+condo,7 Oakridge Alley,1376,5,2,1918,816123,233,9.6
+apartment,2910 Longview Plaza,3984,4,2,2021,273730,89,5.3
+townhouse,49 Fairview Court,3540,1,4,1983,231050,76,7.9
+house,9425 Springs Pass,4063,6,3,1905,936427,306,9.8
+townhouse,00 Service Crossing,2357,3,2,1989,522216,155,8.5
+townhouse,1 Del Mar Trail,1111,2,3,1941,465840,326,7.7
+house,1555 Ronald Regan Circle,3295,3,4,1983,948993,287,7.8
+house,939 Oriole Point,4959,4,3,1958,609043,45,4.3
+condo,98705 Nova Street,1158,1,3,1930,444690,147,5.5
+house,15409 Michigan Avenue,551,1,4,2001,782100,136,7.9
+townhouse,788 Darwin Park,4563,6,2,1904,78130,191,5.8
+townhouse,53015 Caliangt Terrace,2518,5,4,1997,674516,205,6.9
+condo,66620 Dryden Point,1425,5,2,1974,501968,163,9.8
+house,383 Waywood Plaza,4932,2,3,1971,142034,349,1.1
+house,85 Macpherson Road,1743,5,4,2006,440123,261,6.3
+condo,91 Sloan Road,3716,1,3,1965,615550,70,2.7
+house,534 Mallard Pass,2238,4,3,1949,85474,148,5.2
+townhouse,839 Heath Lane,4873,4,3,1934,316842,76,9.4
+house,083 Blackbird Way,3780,2,2,1967,191619,220,6.1
+townhouse,1811 Roxbury Way,589,2,2,1930,591105,42,3.3
+apartment,484 Roxbury Park,3538,4,3,1940,299871,23,5.9
+townhouse,309 Paget Street,4324,6,4,1911,123508,38,3.6
+apartment,3 Granby Park,2281,4,2,1977,305818,103,9.9
+apartment,78 Northridge Lane,1842,2,4,1906,944800,54,3.2
+condo,4 Bluejay Circle,3573,6,2,2013,669591,331,2.2
+house,29631 Mifflin Lane,1234,5,4,1986,425584,224,4.2
+condo,94799 Village Alley,4975,2,3,1938,551934,221,2.2
+condo,944 Luster Place,3138,6,3,1925,430584,51,6.1
+apartment,88236 Marquette Terrace,1687,2,2,1972,667448,124,2.3
+house,9 John Wall Alley,2384,5,4,1959,215260,74,8.7
+house,4185 Northland Drive,2714,5,3,1930,356279,44,8
+townhouse,13995 Sutteridge Road,1212,6,2,1964,106246,53,5.8
+house,993 Waywood Junction,2510,4,2,1926,341344,196,6.1
+condo,83824 Vera Hill,1503,2,3,1962,827693,266,8.6
+apartment,97121 Sullivan Place,1219,2,3,2022,872539,363,7.3
+townhouse,56 Towne Trail,1367,3,4,1979,208825,353,4.9
+condo,1069 Westend Plaza,2988,6,3,1937,702187,82,5.5
+townhouse,088 Ruskin Plaza,733,5,3,2007,877079,119,3.3
+apartment,430 Almo Point,4904,3,1,1911,342776,145,5.6
+condo,5 Kropf Drive,3968,4,3,1993,756382,226,2
+townhouse,1 Waywood Place,3642,5,3,2018,369303,69,6.7
+townhouse,54 Monument Way,2507,6,1,1912,596560,192,3.7
+condo,57654 Lotheville Junction,3466,3,2,2018,225045,250,5.3
+house,55 Tennyson Alley,792,2,2,1937,379041,30,3.1
+townhouse,5897 Debra Crossing,4250,1,3,1900,206977,109,6.4
+townhouse,1 Sherman Center,2102,2,2,2009,313989,353,6.6
+house,1702 Lawn Plaza,1124,5,3,1980,887536,155,9
+apartment,509 Anniversary Parkway,1395,5,2,1949,323482,274,6.8
+house,575 Pond Terrace,2435,1,4,1975,432679,99,9.7
+house,21771 American Point,4100,6,4,2015,192159,156,3.1
+house,04736 Twin Pines Center,3885,6,4,1963,833896,158,7.1
+condo,9893 Marcy Pass,833,2,2,1992,430491,294,2.2
+apartment,29 5th Alley,4683,5,2,1937,743374,312,9.9
+house,228 Mendota Circle,2139,1,3,1983,529802,288,2.9
+townhouse,2 Hanson Avenue,2817,1,4,1928,984419,267,5.4
+condo,82 Di Loreto Circle,4392,4,3,1933,773486,352,7
+apartment,0794 Hudson Center,1516,1,3,1946,939169,280,6.2
+house,0 Melvin Road,3104,4,2,1946,705812,347,7.3
+apartment,8 Thierer Drive,4668,1,3,1919,146142,253,8.2
+condo,11 Hudson Pass,688,3,4,1933,124516,186,8.8
+condo,5 Arapahoe Point,4832,6,4,2009,453192,200,9.6
+townhouse,9 Eagan Circle,2474,2,1,1976,146932,132,8.9
+townhouse,1490 Everett Place,3813,3,4,1975,63940,305,4.8
+condo,4418 Grover Lane,1972,4,3,1981,57083,174,1.9
+apartment,23403 Glacier Hill Junction,1110,3,4,1978,966538,339,6.1
+condo,1 International Place,4608,5,3,2010,746350,44,4.5
+apartment,0 Del Mar Parkway,1883,6,3,2020,460277,290,5.2
+house,41 Thackeray Pass,1066,4,4,1993,542948,228,1.9
+condo,604 Surrey Way,2618,1,4,1994,903847,269,9.2
+condo,5320 Pine View Drive,2120,5,2,1997,225756,10,8.4
+townhouse,03 Towne Court,2496,2,2,1949,64236,343,4.1
+condo,94 Thackeray Road,568,6,4,1977,448974,95,6.3
+townhouse,34400 Melby Pass,4550,1,3,1927,188777,270,6.6
+townhouse,9 Coolidge Junction,2932,1,2,2017,398317,318,3.2
+apartment,8 Bartillon Hill,1638,1,2,1958,770110,149,5.9
+townhouse,05 Forster Junction,1854,1,4,1962,925730,143,3.3
+townhouse,586 Anthes Alley,3882,2,2,1914,939975,27,3.2
+apartment,01 Miller Hill,665,6,2,1967,255700,244,3
+condo,95 Bunker Hill Place,609,5,2,1927,939376,355,3.2
+townhouse,676 Raven Junction,1474,5,2,1973,76147,128,5.8
+condo,1 Milwaukee Drive,2019,2,4,1944,473573,166,8.1
+condo,5705 Ridgeview Alley,3121,3,3,1908,477739,75,4.3
+apartment,1 Merchant Road,3092,6,4,1958,405617,215,5
+condo,00 Dakota Avenue,2590,3,4,1999,547564,246,8.9
+condo,4351 Redwing Plaza,4426,3,2,1984,213042,310,7.3
+house,1 Dunning Pass,576,6,2,1954,120544,47,8.8
+townhouse,98 Morningstar Parkway,1502,5,1,2012,783777,36,5.5
+apartment,088 Harbort Lane,3932,4,1,2014,143846,318,9.6
+house,32758 High Crossing Avenue,3542,4,1,1957,388138,277,2.8
+house,36 Birchwood Junction,3108,1,4,1910,195450,69,9.9
+condo,1928 1st Hill,4772,4,3,1934,700679,298,2.3
+house,8 Sage Trail,3054,2,1,1972,870128,40,6.5
+townhouse,4 Merrick Way,3038,2,3,2011,639949,271,4.5
+apartment,5574 Anzinger Plaza,4182,3,3,1907,963012,25,4.3
+apartment,55 Mosinee Street,4975,5,1,2007,605725,140,5
+condo,39 Stephen Junction,2389,1,1,2008,802276,63,9.5
+house,964 Sauthoff Street,715,2,2,2021,824943,133,5
+house,1425 Cody Road,3486,4,1,1933,52745,11,9.6
+house,89097 Delladonna Court,4076,1,3,1973,953548,151,8.9
+condo,186 Fulton Place,4534,6,3,1960,871099,116,6.5
+townhouse,3122 Forest Run Park,1220,5,1,2012,242243,222,1.6
+apartment,117 Farwell Pass,3312,5,2,2017,336980,282,6.2
+house,168 Northport Junction,3299,4,1,1903,186633,3,3.8
+house,55 Buena Vista Drive,3756,6,3,1983,925045,161,3.7
+condo,50 Columbus Point,924,4,1,1966,51689,313,8
+townhouse,9931 Everett Avenue,3808,4,2,1923,391865,119,4.5
+townhouse,8 Crownhardt Circle,3414,1,2,1977,404171,14,8.2
+townhouse,7249 Valley Edge Park,2030,3,3,1993,985374,276,9.4
+house,2 Pine View Lane,4510,3,3,1936,847251,184,2
+townhouse,36321 Trailsway Park,1392,5,3,1916,87282,249,8.6
+apartment,500 Rowland Drive,4360,5,3,1918,646806,290,8.9
+condo,6 Declaration Circle,4416,3,3,1910,425223,187,8.9
+townhouse,620 Brickson Park Plaza,4182,6,3,1919,913931,264,5.5
+townhouse,3617 Maple Street,3490,3,4,1979,546872,85,2.8
+condo,4690 Northfield Place,584,2,4,1961,723464,224,4.3
+condo,80319 Farwell Pass,3382,1,3,1954,57626,336,7.2
+house,9 Eliot Terrace,1302,1,3,1906,943389,254,8.5
+townhouse,505 Calypso Street,1641,6,2,1993,145648,242,7.7
+condo,9996 Helena Parkway,1494,3,4,1940,221122,43,2.5
+house,1839 Harper Junction,1060,5,4,1953,904963,109,7.2
+condo,4250 Fremont Way,1323,3,2,1953,505735,133,7.7
+condo,3 Nelson Road,677,2,3,2000,226440,99,8.4
+apartment,24826 Drewry Park,1824,4,3,1960,602774,32,3.6
+condo,4566 7th Avenue,3703,3,1,1990,903502,78,8.2
+townhouse,0 Bay Avenue,3638,5,1,2015,968135,347,9.5
+apartment,68883 East Trail,1142,6,2,1968,282670,60,5.5
+townhouse,93180 Namekagon Junction,1831,5,2,1905,267405,94,7.2
+house,39597 Schiller Plaza,2299,3,1,1920,880041,68,3.9
+townhouse,36356 Charing Cross Center,4562,3,3,1988,956144,45,3.7
+apartment,17771 Corben Point,2102,4,1,1922,449256,330,1.8
+townhouse,3 Lawn Lane,4705,5,3,2011,588024,279,4.7
+townhouse,854 Veith Terrace,549,6,2,2012,63469,348,1.4
+condo,35 Tennyson Terrace,926,2,4,1946,941290,137,7.7
+condo,99327 Ridgeview Hill,3033,6,4,1927,339528,290,7.5
+condo,054 Dennis Court,4855,6,4,2010,553698,144,9.2
+house,50777 Debra Lane,4054,5,2,2003,753250,79,8.9
+house,47 Rigney Street,936,6,2,2012,366347,156,6.7
+apartment,26 Crownhardt Center,3850,1,2,2007,157691,130,7.5
+condo,9 Fairfield Park,3175,3,4,1941,825802,44,9.6
+apartment,1 Tennyson Point,4505,4,3,1924,411406,27,5.1
+house,7 Autumn Leaf Crossing,3320,4,4,1920,477879,50,2.9
+apartment,970 Blaine Hill,930,4,1,1908,114038,158,7.7
+house,605 Havey Plaza,2848,6,1,1937,571713,169,3.7
+condo,488 Maywood Avenue,1679,4,2,1986,166742,39,7.8
+townhouse,8 New Castle Alley,2328,6,4,1922,277052,326,1.4
+condo,6123 Sycamore Hill,4602,5,3,1970,239040,336,6.3
+townhouse,136 Bunting Center,2120,5,3,1949,899355,333,2.6
+house,137 Shopko Terrace,698,2,1,1927,187115,93,5.5
+apartment,415 Scoville Parkway,4851,3,2,1917,722065,88,9.7
+townhouse,8033 Moulton Trail,4579,5,1,2022,611504,230,4
+house,111 Sage Center,1250,6,3,2007,317119,161,2.5
+condo,049 Warner Avenue,2535,1,3,2021,721308,347,3.2
+apartment,20 Shopko Junction,2858,6,4,1908,638610,267,5
+apartment,0701 Schmedeman Hill,789,5,1,1917,290200,120,7.5
+townhouse,26122 Forest Run Road,3916,6,2,1929,687427,155,7.2
+house,7510 Arapahoe Point,1937,6,3,1997,993890,37,2.1
+townhouse,9840 Tennessee Street,1566,4,2,2007,60815,328,8.6
+house,5 Towne Trail,4212,4,2,1911,703686,185,3.6
+apartment,66933 Moose Terrace,4233,5,4,1999,748614,73,4.5
+house,0613 Katie Point,3970,1,4,1933,75707,79,7.4
+apartment,73 Schlimgen Parkway,3275,3,2,2010,231215,144,5.3
+townhouse,8 Holy Cross Way,2479,3,4,1967,498848,128,5.5
+townhouse,0578 Pennsylvania Place,4371,5,3,1994,662147,41,7.4
+apartment,8802 Prairie Rose Circle,1972,5,1,2018,129630,186,7
+house,3 Westend Parkway,1793,4,3,1921,207705,282,4.3
+house,86617 Dorton Junction,2317,5,3,1984,226579,270,8.2
+apartment,0472 Everett Trail,3236,5,4,1947,308695,164,3.8
+house,77 Hayes Drive,4507,2,4,1976,624147,254,3.7
+townhouse,3 Blue Bill Park Parkway,1293,1,2,1947,964900,149,3.6
+house,43757 Loeprich Circle,4554,1,1,1993,370478,147,7.6
+house,35 Trailsway Terrace,2952,5,4,1929,535021,281,3.3
+townhouse,22381 Mosinee Plaza,2953,6,1,1970,629610,349,6.6
+house,984 Nancy Junction,2987,6,3,1969,164755,250,1.9
+apartment,382 Basil Place,3517,2,3,1908,344677,177,5.1
+apartment,2 Doe Crossing Way,2555,5,1,1907,340339,15,7
+townhouse,9915 Forest Dale Lane,1062,2,2,1933,357807,109,3.7
+townhouse,3311 Twin Pines Terrace,2303,5,4,1977,543126,36,8.6
+townhouse,77122 Roth Point,4077,4,2,1939,998900,163,6.1
+condo,92 Sunbrook Court,1637,3,2,1977,404385,55,10
+townhouse,86 Daystar Center,4880,5,2,1941,527359,98,4.4
+townhouse,824 Glendale Plaza,995,1,4,1905,236077,312,5.8
+house,961 Acker Court,759,4,4,1942,528254,313,6.4
+condo,3 Dottie Court,3255,3,3,1945,166887,1,3.7
+apartment,5 Atwood Crossing,2738,4,2,1992,113056,72,5.6
+apartment,20 2nd Center,3871,5,3,2017,352022,117,1.9
+townhouse,74 Morrow Place,2961,5,4,2021,79370,305,7.5
+condo,0894 Dennis Point,1599,2,4,1961,762537,127,9.1
+townhouse,04581 Northwestern Park,1587,3,1,1993,402624,152,6.8
+townhouse,67912 Manufacturers Park,1850,4,4,1951,156772,208,6.2
+condo,60519 Carpenter Circle,4152,6,4,1998,65303,130,5.6
+condo,398 Oneill Parkway,2356,6,3,1935,724887,13,6.5
+condo,8 Carioca Avenue,4091,5,2,2007,288475,176,3.2
+house,99187 Melvin Court,2518,3,2,1953,702681,62,1.7
+townhouse,81 Donald Drive,2005,5,2,1924,593139,83,7.1
+house,9533 Ridgeway Alley,2509,5,3,1969,668085,190,2.2
+condo,86 Darwin Trail,2656,4,2,1921,347357,198,6.6
+apartment,23836 Autumn Leaf Center,2068,3,3,1932,270467,105,9.6
+condo,34 Bunker Hill Park,1071,5,3,1917,686999,185,1.6
+house,96 Hudson Plaza,522,1,2,1976,969602,80,1.3
+house,38 Upham Point,1483,1,3,1918,949471,157,8.8
+townhouse,1 Glacier Hill Parkway,3527,3,3,1930,322517,116,5.9
+townhouse,2706 Truax Point,2671,5,2,1976,451682,278,2.7
+condo,888 Delladonna Circle,1418,6,1,1919,557460,41,3.2
+townhouse,0594 Clarendon Road,3291,2,4,1927,313553,2,4.9
+apartment,5 Thompson Pass,1473,4,1,1954,645857,36,3
+townhouse,308 Armistice Point,4629,1,3,1948,589937,203,8.1
+condo,1946 Dawn Hill,2385,1,2,1936,315884,206,5.1
+house,7777 Straubel Center,4110,5,1,2015,324367,226,9.5
+townhouse,500 Katie Way,4359,3,1,1940,817220,199,4.4
+house,620 Kropf Trail,2275,1,2,1975,550331,337,7.8
+condo,5 Gale Street,2867,3,2,1961,888343,92,1.6
+townhouse,052 Burrows Alley,2222,6,3,1935,870639,166,3.4
+apartment,221 Pawling Alley,2154,2,3,1943,650119,156,4.5
+apartment,8463 Marquette Way,556,6,3,2015,323365,66,3.8
+house,9 Hauk Terrace,4986,1,3,1951,619369,94,9.3
+apartment,0 Del Sol Parkway,3357,3,1,1973,469424,79,6.6
+townhouse,2196 Blue Bill Park Way,4182,3,3,1969,270197,312,1.4
+house,79052 Bunting Hill,641,3,3,1953,189032,204,4.1
+apartment,257 Novick Way,1538,4,1,1933,345947,239,4
+condo,69602 Mayer Plaza,3514,2,2,1962,404020,167,2.4
+house,72895 Sunbrook Parkway,896,6,2,2013,357497,229,8.2
+apartment,1539 Crowley Court,3811,6,3,1994,424087,33,7.5
+townhouse,897 Canary Hill,4723,6,1,1993,320996,266,8.8
+townhouse,5574 Hanson Court,4104,2,4,1980,393519,305,1.8
+apartment,4313 Carioca Crossing,4274,4,3,1941,617824,130,8.9
+apartment,7851 Esch Circle,4248,6,1,1995,305971,226,1.3
+townhouse,95064 Pearson Hill,572,2,4,1924,386631,234,3.9
+house,47 Dottie Drive,838,6,4,1959,814599,359,2.6
+condo,13 Grayhawk Way,1033,1,3,1931,196096,187,8.8
+house,290 Summer Ridge Way,2763,6,3,1992,772288,287,4.5
+townhouse,1 Dawn Alley,2320,3,4,1964,549079,177,7.3
+house,2 La Follette Junction,4039,3,2,1974,345106,42,7
+house,07404 Arapahoe Place,1313,1,2,1971,985784,103,6.4
+townhouse,94 Grover Park,1891,6,1,1945,578604,83,5.4
+townhouse,657 Bobwhite Park,3476,2,1,1908,646817,244,1.5
+apartment,1603 Vidon Center,1862,4,3,1971,963766,324,7.2
+condo,14 Hoepker Place,3288,3,4,2018,713802,233,3.4
+townhouse,550 Warner Terrace,4015,4,2,1992,143935,339,1.9
+condo,2840 Sauthoff Crossing,2014,1,2,1963,413869,167,1.9
+apartment,924 Talmadge Circle,1109,2,2,1912,802146,69,5.9
+apartment,25407 Vahlen Park,4721,5,2,2006,772808,365,9.3
+condo,855 Merrick Parkway,3874,3,3,1923,596079,265,6.8
+house,15 Cardinal Parkway,2730,5,3,1985,690876,57,1.7
+apartment,342 Welch Court,2535,4,4,1937,944034,169,7.8
+condo,25054 Welch Center,1109,3,2,1959,475807,252,8.3
+townhouse,8056 Eagan Terrace,4856,2,4,2022,385958,229,2.8
+townhouse,51130 Marquette Point,4809,2,3,1954,227349,5,2.2
+apartment,85231 Russell Point,861,4,3,2012,85864,344,5.8
+apartment,99 Carey Center,520,5,4,1908,964546,227,7
+house,22 David Avenue,1476,4,3,1917,258245,153,10
+condo,951 Nobel Lane,1211,3,2,1906,883615,216,9.8
+condo,8487 Trailsway Hill,2545,6,3,1973,175281,293,4.9
+condo,0 Sage Road,2335,3,4,1954,743055,234,9.1
+condo,63596 Dixon Hill,2143,5,4,1913,295511,330,2.8
+condo,603 Sommers Point,2040,6,3,1981,719045,230,1.7
+townhouse,24 Susan Pass,2338,5,2,1983,942311,343,6.9
+apartment,598 Portage Way,3639,5,4,1973,948718,306,3.3
+apartment,5368 Ronald Regan Court,2611,1,2,1930,64050,283,6.3
+house,56 Moulton Avenue,757,6,1,1905,763168,303,4.4
+townhouse,355 Anthes Center,3967,2,3,1972,118731,347,1.6
+apartment,85393 Briar Crest Place,4171,6,2,1923,401482,174,3.6
+townhouse,10 Bowman Plaza,2471,3,4,1968,358367,17,5.3
+house,78 Larry Hill,2516,5,3,1958,778919,110,8.2
+condo,852 Reinke Lane,1464,2,1,1979,730008,158,2.9
+house,2 Dottie Hill,2483,5,2,1939,758653,293,4.5
+house,263 Elgar Park,3048,6,1,1965,133060,134,6.8
+apartment,57 Dahle Plaza,3974,1,2,1976,879555,159,7.9
+condo,5057 Golf Parkway,2681,6,2,1971,836244,240,6.5
+condo,1 Pierstorff Point,1591,6,4,1970,870221,3,7.4
+house,42 Lakewood Gardens Court,3723,6,4,1960,519655,278,2
+condo,5103 Crownhardt Road,2982,4,4,2002,425453,255,3
+apartment,6 Aberg Trail,4195,3,4,1952,789607,204,4.9
+apartment,17 Little Fleur Street,3091,3,4,2009,119357,298,9.6
+house,2738 Atwood Hill,3632,6,3,2002,565216,94,5.8
+apartment,09 Gale Street,2583,1,2,2013,745859,67,5.5
+apartment,05 Hagan Parkway,1235,2,4,1983,654215,192,5.6
+condo,128 Muir Alley,1059,6,3,1974,153955,353,2.8
+condo,019 Monterey Court,3597,4,3,2007,551617,97,10
+apartment,560 Talmadge Way,3557,3,2,1907,658833,59,9.9
+townhouse,1 Glendale Point,2375,1,2,1906,610146,91,4.6
+apartment,9 Ruskin Junction,4672,1,3,1912,684178,187,7
+townhouse,238 Kenwood Crossing,1696,1,4,1971,516895,171,4.1
+apartment,87843 Doe Crossing Junction,790,1,2,1938,55581,199,9.5
+apartment,55 Moulton Park,1097,4,4,1937,878938,119,3.7
+townhouse,4 Stang Junction,4453,3,4,2006,795306,102,3.2
+house,6981 Bellgrove Way,4312,1,4,2006,740916,48,5.1
+condo,39937 Thompson Street,839,6,2,1947,335371,333,7.1
+house,82 Farmco Road,4152,1,3,1976,969311,225,7.8
+condo,2 Graedel Lane,3006,2,3,1904,721406,226,9.6
+house,0931 Larry Alley,597,2,3,1977,828616,183,8
+condo,93 Tony Junction,4512,5,2,1916,936854,242,1.3
+apartment,216 Wayridge Lane,1803,5,4,1941,574908,363,9.7
+condo,64281 Westport Circle,4982,3,1,1959,132124,206,1.6
+condo,1 Packers Road,3892,5,1,1998,353469,265,2.4
+house,48881 Susan Road,2745,3,3,1929,505312,63,7.8
+apartment,1034 Oakridge Point,4797,6,4,2022,264613,319,9.7
+apartment,74490 Granby Terrace,2012,1,2,2004,347417,315,5.1
+townhouse,119 Fairview Court,1210,2,1,1957,790829,295,6.7
+apartment,39 Portage Circle,1851,5,3,1943,173059,54,1
+house,88 Vermont Point,4158,3,1,1924,324806,75,9.4
+apartment,9 Pleasure Circle,4532,5,3,1930,885360,79,7.5
+house,921 Sunbrook Hill,1624,6,3,1961,903792,360,1.4
+townhouse,2 Lukken Junction,1463,3,2,1986,765618,220,7.9
+townhouse,2 Chive Parkway,2794,1,2,1970,441239,329,4.1
+apartment,63011 Nova Circle,1395,6,4,1972,569654,237,1.2
+condo,24814 Manitowish Place,4643,3,2,1960,245055,193,6.3
+apartment,798 Anderson Place,2028,3,3,1900,800236,100,7
+condo,68 Thompson Pass,2124,2,1,1992,263797,135,5.6
+house,34398 Fairfield Pass,4536,2,2,1939,830321,140,2.8
+condo,3 Ryan Lane,4878,5,2,1928,771409,295,1.3
+condo,75859 Vernon Alley,2563,5,3,1946,982545,45,2.8
+condo,3000 Vera Place,1277,6,3,1910,182620,152,2.3
+condo,25 3rd Parkway,2952,3,3,1918,963060,178,7.3
+townhouse,644 Clove Lane,3296,5,3,1956,615098,189,3.7
+condo,54123 Burrows Road,3337,6,3,1947,416688,168,9.4
+condo,48659 Surrey Point,3058,3,1,1956,133282,147,6.1
+townhouse,269 Bunker Hill Center,2978,5,4,1942,614232,36,7.9
+house,7217 Merry Lane,2162,3,3,1973,435924,271,7.7
+townhouse,9354 Eagle Crest Drive,2814,1,4,2020,328858,109,7.3
+apartment,911 Kennedy Trail,3608,2,2,1943,562741,104,7.4
+townhouse,4 Russell Circle,4135,6,3,1956,528277,255,7.2
+townhouse,8 Browning Court,2093,4,1,1901,734026,114,9.4
+apartment,20442 Boyd Pass,600,3,3,1927,433779,154,1.7
+condo,66745 Melby Street,2530,3,1,2004,471059,340,4.3
+townhouse,86775 Fulton Parkway,3804,5,4,1973,873575,151,3.2
+house,52933 Mcbride Terrace,3170,4,2,2011,326500,35,1.2
+townhouse,613 Kropf Junction,4666,5,2,1906,780632,225,4.7
+house,3 Glacier Hill Plaza,1260,4,2,1969,615327,198,1.5
+condo,97 Eastwood Drive,1573,2,1,1978,551976,153,5.7
+apartment,11 Prairie Rose Hill,3706,1,3,2015,355595,283,5.6
+apartment,81 Maywood Alley,1772,2,1,1995,661095,190,5.9
+house,0143 Hoepker Alley,3718,2,3,1919,420418,199,7.3
+apartment,4063 Burning Wood Center,1787,2,2,2005,99136,96,3.3
+townhouse,176 Crest Line Pass,2529,4,3,1924,752558,173,9.7
+apartment,115 Brickson Park Hill,2206,1,3,1967,105585,284,5.5
+townhouse,20 Acker Trail,1222,4,2,1914,89585,146,8.8
+apartment,9 Sauthoff Hill,1189,2,4,2000,285916,29,2.7
+house,8 Swallow Terrace,634,4,2,1999,698974,326,1.4
+townhouse,2 Petterle Lane,4465,1,2,2007,122458,110,8.8
+apartment,74983 Barby Avenue,2621,3,3,1938,464850,251,6.7
+townhouse,5338 Loomis Parkway,2289,1,2,1988,788171,2,7.4
+apartment,41558 Grover Junction,4277,4,1,1915,445812,60,4.2
+house,043 Crownhardt Plaza,1436,1,4,1989,883000,62,6.2
+house,9919 Westport Trail,1921,3,3,1908,893566,89,8.5
+house,01 Surrey Pass,4912,4,1,1928,631469,365,7.5
+house,9 Lotheville Hill,2206,4,3,1941,984444,26,6.9
+condo,63 Lakewood Gardens Drive,2800,5,2,1930,908097,232,6.6
+townhouse,742 Merrick Drive,4840,4,2,2011,258393,346,6.3
+house,4162 Maple Wood Crossing,2574,4,2,1983,395354,236,3.2
+apartment,81272 Butterfield Terrace,4129,1,4,1901,857192,231,6.7
+apartment,6 School Center,2004,3,1,1953,986787,231,7.6
+townhouse,1 Melvin Crossing,2260,2,2,1942,69078,321,4.1
+condo,02009 Forest Run Center,2245,3,3,1997,96457,35,3.3
+house,2811 Susan Junction,1300,3,2,2012,823287,52,9.5
+apartment,8 Monterey Place,4913,5,3,1971,989051,282,4.9
+house,4 Sommers Terrace,3979,6,2,1999,816914,11,7.6
+townhouse,35 Kingsford Hill,1490,5,4,1995,211074,343,8.7
+house,20 Briar Crest Crossing,1236,5,1,2014,339306,185,8.8
+apartment,5 Lawn Hill,1426,1,4,1905,735202,314,8.3
+house,821 Weeping Birch Place,2862,1,4,1952,940974,29,9.7
+condo,7125 Bultman Terrace,1544,5,2,1991,983562,70,8.8
+apartment,99 Monica Park,1564,2,3,1992,847472,269,6.8
+apartment,345 Bartillon Parkway,3467,5,1,1986,542890,131,1.3
+apartment,786 Vernon Drive,3244,5,4,1942,516367,270,3.5
+house,38948 Elmside Circle,2683,6,3,1971,866580,252,2.5
+condo,22602 Briar Crest Terrace,3404,4,3,1984,644647,127,7.3
+house,978 Anniversary Alley,4254,6,1,1970,841771,19,1.9
+apartment,50696 Kipling Avenue,1531,1,2,2015,605853,25,5.9
+house,22 Armistice Street,3756,2,3,1914,479668,219,5.5
+townhouse,23 Pennsylvania Junction,4332,3,4,2000,257204,286,4.6
+house,38 Westend Park,3462,6,2,1980,595923,363,1.9
+apartment,015 Fordem Avenue,844,5,1,1976,257501,63,1.8
+apartment,78 Porter Junction,847,5,1,1990,562878,117,2.6
+condo,8 Spenser Point,2667,2,4,1983,182937,349,5.7
+house,2 Kenwood Court,3393,2,4,1994,635485,62,6.2
+townhouse,1281 Rigney Crossing,1933,1,3,1937,60521,334,5.3
+house,4 West Court,2034,6,3,1937,127529,335,3.1
+townhouse,21169 Bunker Hill Point,4942,2,2,1935,137758,61,1.4
+condo,5 Paget Crossing,4667,3,2,1976,218174,321,5.7
+apartment,2619 Service Terrace,4736,3,2,1981,737031,102,3.7
+townhouse,58987 Sutherland Center,4754,4,3,1946,439841,243,6
+apartment,73893 Kinsman Point,3768,5,4,1993,494840,218,2.9
+house,09629 Schiller Circle,4253,3,2,1988,534363,357,1.7
+condo,40 Doe Crossing Junction,4978,6,3,1914,702037,262,3.7
+house,69998 Duke Pass,3271,4,4,1942,287842,354,3.3
+house,8408 Coleman Point,4212,2,4,1984,165086,117,9.7
+apartment,2 Duke Way,662,4,2,2016,949714,262,6.4
+townhouse,75 Montana Point,1181,2,4,1991,307278,349,2.5
+apartment,62 Mayfield Drive,4345,2,1,1944,736910,183,5.5
+house,85525 Union Terrace,1236,3,3,1978,497130,341,1.2
+house,5 Dayton Terrace,2512,1,1,1989,609600,130,2.4
+apartment,01238 Westend Plaza,3954,2,3,1922,666419,177,5.9
+townhouse,73 Tennessee Hill,4519,3,3,1955,823183,58,6.2
+apartment,67 Heath Park,1765,4,1,1972,337023,120,7.2
+townhouse,93574 Tomscot Parkway,3572,2,2,2018,467242,67,4
+apartment,30619 Center Way,3181,6,2,1961,902783,350,2.8
+condo,3 Lindbergh Trail,1468,5,2,1989,172827,176,7
+house,0089 Utah Pass,618,6,2,1936,556037,45,2.4
+townhouse,4 Ilene Terrace,2805,1,2,1984,890784,341,8.7
+condo,5 Chinook Court,1018,2,2,1962,589964,36,1.5
+house,61 Farmco Point,1080,3,3,1992,761660,217,8.9
+condo,6 Eastwood Park,797,2,4,1937,641641,282,4.9
+townhouse,41 Village Green Drive,1391,3,4,1981,230698,319,4.8
+townhouse,97 Mockingbird Plaza,4529,3,4,1900,559742,157,2.1
+condo,53454 Rockefeller Crossing,1143,1,4,1992,941994,309,9.4
+apartment,96585 Scofield Trail,3742,1,2,1902,148641,46,9.6
+house,1856 Hovde Park,1482,6,3,1986,96312,119,5.4
+apartment,4 Utah Crossing,1395,5,4,1943,573200,260,1.4
+house,882 Division Park,4109,5,3,2017,279697,41,2.9
+house,288 Merrick Street,1272,3,4,1911,188459,257,3.1
+apartment,631 Green Ridge Circle,2165,2,3,1908,560671,271,5.1
+house,3 7th Junction,2402,5,3,1914,185857,169,7
+house,47 South Street,3411,3,4,1908,626083,7,1.7
+house,34207 Scoville Alley,3127,2,1,2020,864657,187,4.4
+townhouse,527 Pankratz Terrace,808,1,2,1971,295714,47,3.7
+apartment,9 Hooker Circle,1985,6,2,1995,272197,296,9.1
+condo,6134 Bowman Plaza,3156,3,4,1955,587209,260,3.2
+townhouse,120 Utah Center,2494,4,2,1904,450727,76,9.5
+townhouse,2 Buell Avenue,1998,6,4,1990,205318,201,2
+condo,57368 Westend Court,4820,4,4,1922,481966,113,7.1
+house,08 Mitchell Street,4691,1,4,1960,182555,234,4.3
+townhouse,05 Emmet Trail,3857,4,1,1947,739571,195,2.7
+apartment,4 Sundown Drive,923,5,3,2019,451565,285,7.5
+townhouse,147 Moose Drive,1467,4,4,1960,117799,46,1.7
+townhouse,23 Transport Alley,2384,6,2,2000,987145,326,1.9
+apartment,3 Kinsman Center,2928,1,2,1967,226100,115,9.7
+condo,076 Dunning Terrace,3677,4,3,1943,84213,48,1.6
+apartment,2 Dahle Way,1853,1,4,2018,844158,340,4.5
+condo,40278 Roxbury Court,793,5,3,1938,506667,205,6.4
+house,9597 Warner Point,1979,5,3,1938,767513,48,7.6
+townhouse,84 Erie Road,2705,5,2,2006,167753,97,2.7
+condo,20 Ramsey Trail,4412,1,4,2021,765890,297,2.3
+condo,986 Linden Circle,1871,4,3,1921,799249,330,3.1
